@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.2/524e0a697e9d62950b2f763d88d35cd8dc82a9a1/lombok-1.18.2.jar" />
+        </processorPath>
+        <module name="sso-user-cookie.sso-blog.main" />
+        <module name="sso-user-cookie.sso-login.main" />
+        <module name="sso-user-cookie.sso-course.main" />
+        <module name="sso-user-cookie.sso-main.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="com.sso.sso-cart.main" target="1.8" />
+      <module name="com.sso.sso-cart.test" target="1.8" />
+      <module name="com.sso.sso-vip.main" target="1.8" />
+      <module name="com.sso.sso-vip.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
